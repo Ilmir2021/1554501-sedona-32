@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ильмир Гарипов](https://up.htmlacademy.ru/htmlcss/32/user/1554501).
-* Наставник: [Сергей Зубов](https://htmlacademy.ru/profile/serj ).
+* Наставник: [Сергей Зубов](https://htmlacademy.ru/profile/serj).
 
 ---
 
